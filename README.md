@@ -7,7 +7,7 @@ the number. After each guess, the game provides feedback in the form of "too hig
 - User input handling with feedback
 - Score tracking (number of attempts)
 How to Run
-1. Clone the repository: git clone https://github.com/Mollysyam_55/Java-Based-Number-Guessing-Game.git
+1. Clone the repository: git clone [https://github.com/Mollysyam_55/Java-Based-Number-Guessing-Game.git](https://github.com/Mollysyam/Java-based-Number-Guessing-Game/edit/main/README.md)
 2. Navigate to the project directory: cd Java-Based-Number-Guessing-Game
 3. Compile the code: javac NumberGuessingGame.java
 4. Run the game: java NumberGuessingGame
